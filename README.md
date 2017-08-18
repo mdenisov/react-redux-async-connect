@@ -1,6 +1,6 @@
 ReduxAsyncConnect for React Router
 ============
-[![npm version](https://img.shields.io/npm/v/redux-connect.svg?style=flat-square)](https://www.npmjs.com/package/react-redux-async-connect)
+[![npm version](https://img.shields.io/npm/v/react-redux-async-connect.svg?style=flat-square)](https://www.npmjs.com/package/react-redux-async-connect)
 
 
 How do you usually request data and store it to redux state?
